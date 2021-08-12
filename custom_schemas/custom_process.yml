@@ -95,12 +95,6 @@
       description: >
         The final non-win32 module in the call stack.
 
-    - name: thread.Ext.final_user_module
-      level: custom
-      type: nested
-      description: >
-        The final non-win32 module in the call stack.
-
     - name: thread.Ext.final_user_module.name
       level: custom
       type: keyword
